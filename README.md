@@ -1,2 +1,2 @@
 # User-creations-STLs-
-User submitted modifications
+This repository is for user created STL's for sharing
